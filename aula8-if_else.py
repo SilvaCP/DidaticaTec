@@ -19,7 +19,7 @@ else:
     print('Desconheço as calorias!')'''
 
 
-print('2025')
+print('Considere que esse ano é 2025')
 ano = int(input('Em que ano você nasceu? '))
 if ano == 2025:
     print('Recen nascido!')
