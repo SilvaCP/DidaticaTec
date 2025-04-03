@@ -32,6 +32,7 @@ elif ano <= 2005 and ano >= 1966:
 else:
     print('Idoso!')
 print('Fim do programa.')
+print('A fertilidade é um fenômeno biológico.\n A paternidade é uma vocação muito específica.')
 
 
 
