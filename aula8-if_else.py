@@ -31,6 +31,7 @@ elif ano <= 2005 and ano >= 1966:
     print('Adulto!')
 else:
     print('Idoso!')
+print('Fim do programa.')
 
 
 
